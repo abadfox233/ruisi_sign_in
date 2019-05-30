@@ -9,7 +9,7 @@ class creat_cookies(object):
     data ={
         'formhash':'',
         'referer':'http://rs.xidian.edu.cn/portal.php',
-        'username':'最美不过泡沫',
+        'username':'#############',
         'password':'6254d2fdd4d3f7a38054f38627d8c5f3',
         'questionid':'0',
         'answer':'',
